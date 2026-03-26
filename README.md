@@ -11,7 +11,7 @@ The portfolio is divided into five structured tasks, each aligned with a module 
 ---
 
 ## Repository Structure  
-
+```
 digital-literacy-project/  
 │  
 ├── README.md  
@@ -25,8 +25,8 @@ digital-literacy-project/
 ├── task-4-email-etiquette/  
 │   └── emails + checklist  
 ├── task-5-cybercrime/  
-│   └── case study + prevention checklist  
-
+    └── case study + prevention checklist  
+```
 ---
 
 ## Task Summary  
